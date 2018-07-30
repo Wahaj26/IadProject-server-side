@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "Myuser",
+    "password": "adminadmin",
+    "database": "my",
+    "host": "localhost",
+    "dialect": "mssql"
+  },
+  "test": {
+    "username": "Myuser",
+    "password": "adminadmin",
+    "database": "my",
+    "host": "localhost",
+    "dialect": "mssql"
+  },
+  "production": {
+    "username": "Myuser",
+    "password": "adminadmin",
+    "database": "my",
+    "host": "localhost",
+    "dialect": "mssql"
+  }
+}
